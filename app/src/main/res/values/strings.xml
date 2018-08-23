@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Random number</string>
+    <string name="Toast">Toast</string>
+    <string name="Count">Count</string>
+    <string name="Random">Random</string>
+    <string name="toast">0</string>
+    <string name="button">Button</string>
+    <string name="button">Button</string>
+    <string name="button">Button</string>
+    <string name="count">COUNT</string>
+</resources>
